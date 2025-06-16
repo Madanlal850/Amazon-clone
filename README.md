@@ -42,11 +42,10 @@ While building this Amazon Clone project, I went through a complete learning exp
 
 ## 📂 Folder Structure
 📁 Amazon-clone/
-│
-├── 📁 assets/               # All images and icons
-│   ├── amazon_logo.png
-│   ├── location_icon.png
-│   ├── dropdown_icon.png
+│├── 📁 assets/               # All images and icons
+│├── amazon_logo.png
+│ ├── location_icon.png
+│ ├── dropdown_icon.png
 │   ├── search_icon.png
 │   ├── us_flag.png
 │   ├── cart_icon.png
