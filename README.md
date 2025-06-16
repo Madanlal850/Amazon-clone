@@ -41,30 +41,31 @@ While building this Amazon Clone project, I went through a complete learning exp
 ---
 
 ## 📂 Folder Structure
-Amazon-clone/ │ 
-├── assets/
-# All images and icons 
-├── cart.html
-# Shopping Cart Page
-├── signin.html
-# Login Page
-├── signup.html
-# Registration Page
-├── product.html
-# Product Listing Page
-├── index.html
-# Homepage
-├── cart.css
-# Cart Page Styling
-├── signin.css
-# Sign In Page Styling
-├── product.css  
-# Product Page Styling
-├── style.css 
-# Global Stylesheet
-└── script.js 
-# JavaScript File
----
+📁 Amazon-clone/
+│
+├── 📁 assets/               # All images and icons
+│   ├── amazon_logo.png
+│   ├── location_icon.png
+│   ├── dropdown_icon.png
+│   ├── search_icon.png
+│   ├── us_flag.png
+│   ├── cart_icon.png
+│   ├── menu_icon.png
+│   └── (other image files...)
+│
+├── index.html              # Homepage
+├── product.html            # Product Listing Page
+├── cart.html               # Shopping Cart Page
+├── signin.html             # Login Page
+├── signup.html             # Registration Page
+│
+├── style.css               # Global Stylesheet
+├── product.css             # Product Page Styling
+├── cart.css                # Cart Page Styling
+├── signin.css              # Sign In Page Styling
+│
+└── script.js               # JavaScript File
+
 
 ## ⚙️ Technologies Used
 
